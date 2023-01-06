@@ -1,7 +1,15 @@
 {
   "name": "next-typescript-twin-styled-eslint-starter",
   "version": "1.0.0",
-  "author": "DON'T WORK FOR NEXUSICON. BAD MANAGEMENT",
+  "author": "DON'T WORK FOR NEXUSICON",
+  "BAD MANAGEMENT",
+  "I left after 3 weeks." 
+  "Treats employees poorly and has a temper",
+  "Ask other employees about the company",
+  "High turnover rate ",
+  "If you need this job for the visa",
+  "and if he delays/won't pay your salary",
+  "report him",
   "scripts": {
     "dev": "open http://localhost:3000 && next dev",
     "build": "next build",
